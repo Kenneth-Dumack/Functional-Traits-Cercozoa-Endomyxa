@@ -1,0 +1,294 @@
+DOMAIN	SUPERGROUP	HIGHER_RANK	CLASS	ORDER	FAMILY	GENUS	NUTRITION	MORPHOLOGY	LOCOMOTION	HABITAT	REFERENCES	COMMENTS								
+Eukaryota	Rhizaria	Rhizaria_X	Rhizaria_XX	Rhizaria_XXX	Rhizaria_XXXX	Rhizaria_XXXXX	NA	NA	NA	NA										
+Eukaryota	Rhizaria	Endomyxa	Endomyxa_X	Endomyxa_XX	Endomyxa_XXX	Endomyxa_XXXX	NA	NA	NA	NA										
+Eukaryota	Rhizaria	Endomyxa	Gromiidea	Reticulosida	Reticulosida_X	Filoreta	bacterivore	naked_amoeba	gliding	marine	Bass et al. 2009a									
+Eukaryota	Rhizaria	Endomyxa	Gromiidea	Gromiida	Gromiida_X	Gromia	NA	testate_cell_organic	gliding	marine	Da Silva et al. 2006									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Ascetosporea_X	Ascetosporea_XX	Ascetosporea_XXX	animal_parasite	endoparasite	non_motile	ubiquitous										
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Haplosporida	Haplosporida_X	Haplosporida_XX	animal_parasite	endoparasite	non_motile	ubiquitous	Azevedo & Hine 2017									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Haplosporida	Haplosporida_X	Haplosporidium	animal_parasite	endoparasite	non_motile	ubiquitous	Azevedo & Hine 2017									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Haplosporida	Haplosporida_X	Bonamia	animal_parasite	endoparasite	non_motile	marine	Azevedo & Hine 2017									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Haplosporida	Haplosporida_X	Minchinia	animal_parasite	endoparasite	non_motile	marine	Azevedo & Hine 2017									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Haplosporida	Haplosporida_X	Urosporidium	animal_parasite	endoparasite	non_motile	marine	Azevedo & Hine 2017									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Microcytida	Microcytida_X	Microcytida_XX	animal_parasite	endoparasite	non_motile	ubiquitous	Bass et al. 2019									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Microcytida	Microcytida_X	Mikrocytos	animal_parasite	endoparasite	non_motile	marine	Bass et al. 2019									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Microcytida	Microcytida_X	Paramikrocytos	animal_parasite	endoparasite	non_motile	marine	Bass et al. 2019									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Paramyxida	Paramyxida_X	Paramyxida_XX	animal_parasite	endoparasite	non_motile	marine	Bass et al. 2019									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Paramyxida	Paramyxida_X	Marteilia	animal_parasite	endoparasite	non_motile	marine	Bass et al. 2019									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Paramyxida	Paramyxida_X	Paramyxa	animal_parasite	endoparasite	non_motile	marine	Bass et al. 2019									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Paramyxida	Paramyxida_X	Paramarteilia	animal_parasite	endoparasite	non_motile	marine	Bass et al. 2019									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Paramyxida	Paramyxida_X	Marteiloides	animal_parasite	endoparasite	non_motile	marine	Bass et al. 2019									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Paramyxida	Paramyxida_X	Eomarteilia	animal_parasite	endoparasite	non_motile	marine	Bass et al. 2019									
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Paramyxida	Paradiniidae	Paradiniidae_X	animal_parasite	endoparasite	non_motile	marine	Bass et al. 2019	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Ascetosporea	Paramyxida	Paradiniidae	Paradinium	animal_parasite	endoparasite	non_motile	marine	Bass et al. 2019	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Phytomyxea_X	Phytomyxea_XX	Phytomyxea_XXX	NA	endoparasite	non_motile	soil_and_freshwater		Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Plasmodiophorida	Plasmodiophorida_X	Plasmodiophorida_XX	NA	endoparasite	non_motile	soil_and_freshwater	Neuhauser et al. 2014	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Plasmodiophorida	Plasmodiophoridae	Plasmodiophoridae_X	NA	endoparasite	non_motile	soil_and_freshwater	Neuhauser et al. 2014	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Plasmodiophorida	Plasmodiophoridae	Plasmodiophora	plant_parasite	endoparasite	non_motile	soil_and_freshwater	Neuhauser et al. 2014	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Plasmodiophorida	Plasmodiophoridae	Woronina	not_plant_parasite	endoparasite	non_motile	soil_and_freshwater	Neuhauser et al. 2014	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Plasmodiophorida	Polymyxa_lineage	Polymyxa_lineage_X	plant_parasite	endoparasite	non_motile	soil_and_freshwater	Neuhauser et al. 2014	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Plasmodiophorida	Polymyxa_lineage	Ligniera	plant_parasite	endoparasite	non_motile	soil_and_freshwater	Neuhauser et al. 2014	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Plasmodiophorida	Polymyxa_lineage	Sorosphaera	plant_parasite	endoparasite	non_motile	soil_and_freshwater	Neuhauser et al. 2014	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form. Sorosphaera has recently been renamed Sorosphaerula, a change not yet implemented by the PR2 database.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Plasmodiophorida	Polymyxa_lineage	Polymyxa	plant_parasite	endoparasite	non_motile	soil_and_freshwater	Neuhauser et al. 2014	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Plasmodiophorida	Spongospora_lineage	Spongospora_lineage_X	plant_parasite	endoparasite	non_motile	soil_and_freshwater	Neuhauser et al. 2014	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Plasmodiophorida	Spongospora_lineage	Spongospora	plant_parasite	endoparasite	non_motile	soil_and_freshwater	Neuhauser et al. 2014	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Phagomyxida	Phagomyxida_X	Phagomyxida_XX	not_plant_parasite	endoparasite	non_motile	marine		Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Phagomyxida	Phagomyxida_X	Phagomyxa	not_plant_parasite	endoparasite	non_motile	marine	Cavalier Smith 1993	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Phytomyxea	Phagomyxida	Phagomyxida_X	Maullinia	not_plant_parasite	endoparasite	non_motile	marine	Maier et al. 2000	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Proteomyxidea_X	Proteomyxidea_XX	Proteomyxidea_XXX	eukaryvore	naked_amoeba	gliding	NA										
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Vampyrellida_X	Vampyrellida_XX	eukaryvore	naked_amoeba	gliding	NA										
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Leptophryidae	Leptophryidae_X	eukaryvore	naked_amoeba	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Leptophryidae	Leptophrys	eukaryvore	naked_amoeba	gliding	soil_and_freshwater	Hess et al. 2012									
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Leptophryidae	Theratromyxa	eukaryvore	naked_amoeba	gliding	soil_and_freshwater	Bass et al. 2009a									
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Leptophryidae	Platyreta	eukaryvore	naked_amoeba	gliding	soil_and_freshwater	Bass et al. 2009a									
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Leptophryidae	Vernalophrys	eukaryvore	naked_amoeba	gliding	soil_and_freshwater	Gong et al. 2015									
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Leptophryidae	Planctomyxa	eukaryvore	naked_amoeba	gliding	soil_and_freshwater	Hess 2017									
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Leptophryidae	Arachnomyxa	eukaryvore	naked_amoeba	gliding	soil_and_freshwater	Hess 2017									
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Vampyrellidae	Vampyrellidae_X	eukaryvore	naked_amoeba	gliding	soil_and_freshwater	Hess et al. 2012									
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Vampyrellidae	Vampyrella	eukaryvore	naked_amoeba	gliding	soil_and_freshwater	Hess et al. 2012									
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Thalassomyxa_clade	Thalassomyxa_clade_X	eukaryvore	naked_amoeba	gliding	marine	Berney et al. 2013									
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Thalassomyxa_clade	Thalassomyxa	eukaryvore	naked_amoeba	gliding	marine	Berney et al. 2013									
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Placopodidae	Placopodidae_X	eukaryvore	naked_amoeba	gliding	ubiquitous	More et al. 2019									
+Eukaryota	Rhizaria	Endomyxa	Proteomyxidea	Vampyrellida	Placopodidae	Placopus	eukaryvore	naked_amoeba	gliding	ubiquitous	More et al. 2019									
+Eukaryota	Rhizaria	Rhizaria_incertae_sedis	Rhizaria_Novel_clade_10	Aquavolonida	Aquavolonida_X	Aquavolonida_XX	eukaryvore	naked_flagellate	freely_swimming	soil_and_freshwater										
+Eukaryota	Rhizaria	Rhizaria_incertae_sedis	Rhizaria_Novel_clade_10	Aquavolonida	Aquavolonida_X	Aquavolon	eukaryvore	naked_flagellate	freely_swimming	soil_and_freshwater	Bass et al. 2018									
+Eukaryota	Rhizaria	Rhizaria_incertae_sedis	Rhizaria_incertae_sedis_X	Tremulida	Tremulida_X	Tremulida_XX	eukaryvore	naked_flagellate	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Rhizaria_incertae_sedis	Rhizaria_incertae_sedis_X	Rhizaria_incertae_sedis_XX	Tremulidae	Tremula	eukaryvore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2011									
+Eukaryota	Rhizaria	Rhizaria_incertae_sedis	Rhizaria_Novel_clade_12	Rhizaria_Novel_clade_12_X	Rhizaria_Novel_clade_12_XX	Rhizaria_Novel_clade_12_XXX	NA	NA	NA	soil_and_freshwater	Bass et al. 2009a									
+Eukaryota	Rhizaria	Cercozoa	Cercozoa_X	Cercozoa_XX	Cercozoa_XXX	Cercozoa_XXXX	NA	NA	NA	NA										
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Granofilosea_X	Granofilosea_XX	Granofilosea_XXX	NA	NA	NA	NA										
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Granofilosea_X	Novel_Clades_Granofilosea_1_2_3_4_5_6	Novel_Clades_Granofilosea_1_2_3_4_5_6_X	NA	NA	NA	NA	Bass et al. 2009a									
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Leucodictyida	Leucodictyida_X	Leucodictyida_XX	bacterivore	naked_amoeboflagellate	gliding	marine										
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Leucodictyida	Massisteriidae	Massisteriidae_X	bacterivore	naked_amoeboflagellate	gliding	marine										
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Leucodictyida	Massisteriidae	Massisteria	bacterivore	naked_amoeboflagellate	gliding	marine	Mylnikov et al. 2015	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Leucodictyida	Massisteriidae	Minimassisteria	bacterivore	naked_amoeboflagellate	gliding	marine	Howe et al. 2011	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Cryptofilida	Cryptofilida_X	Cryptofilida_XX	bacterivore	naked_amoeba	gliding	NA										
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Cryptofilida	Mesofilidae	Mesofilidae_X	bacterivore	naked_amoeba	gliding	NA										
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Cryptofilida	Mesofilidae	Mesofila	bacterivore	naked_amoeboflagellate	gliding	soil_and_freshwater	Bass et al. 2009a	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Cryptofilida	Mesofilidae	Nanofila	bacterivore	naked_amoeba	gliding	marine	Bass et al. 2009a									
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Limnofilida	Limnofilida_X	Limnofilida_XX	bacterivore	NA	gliding	soil_and_freshwater	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Limnofilida	Limnofilidae	Limnofilidae_X	bacterivore	naked_amoeboflagellate	gliding	soil_and_freshwater	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Limnofilida	Limnofilidae	Limnofila	bacterivore	naked_amoeboflagellate	gliding	soil_and_freshwater	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Desmothoracida	Desmothoracida_X	Desmothoracida_XX	NA	testate_cell_organic	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Desmothoracida	Clathrulinidae	Clathrulinidae_X	NA	testate_cell_organic	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Desmothoracida	Clathrulinidae	Clathrulina	omnivore	testate_cell_organic	gliding	soil_and_freshwater	Cienkowski 1867									
+Eukaryota	Rhizaria	Cercozoa	Granofilosea	Desmothoracida	Clathrulinidae	Hedriocystis	bacterivore	testate_cell_organic	gliding	soil_and_freshwater	Bass et al. 2009a									
+Eukaryota	Rhizaria	Cercozoa	Metromonadea	Metromonadea_X	Metromonadea_XX	Metromonadea_XXX	eukaryvore	naked_flagellate	gliding	marine										
+Eukaryota	Rhizaria	Cercozoa	Metromonadea	Metopiida	Metopiidae	Metopion	eukaryvore	naked_flagellate	gliding	marine	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Metromonadea	Metromonadida	Metromonadidae	Metromonas	eukaryvore	naked_flagellate	gliding	marine	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Metromonadea	Metromonadida	Metromonadidae	Micrometopion	eukaryvore	naked_flagellate	gliding	marine	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Chlorarachnea	Chlorarachnea_X	Chlorarachnea_XX	Chlorarachnea_XXX	NA	naked_flagellate	gliding	marine										
+Eukaryota	Rhizaria	Cercozoa	Chlorarachnea	Minorisida	Minorisidae	Minorisa	bacterivore	naked_flagellate	gliding	marine	Del Campo et al. 2013									
+Eukaryota	Rhizaria	Cercozoa	Chlorarachnea	Chlorarachnida	Chlorarachniidae	Bigelowiella	autotroph	naked_amoeboflagellate	gliding	marine	Keeling 2016									
+Eukaryota	Rhizaria	Cercozoa	Chlorarachnea	Chlorarachnida	Chlorarachniidae	Norrisiella	autotroph	naked_amoeboflagellate	gliding	marine	Keeling 2016									
+Eukaryota	Rhizaria	Cercozoa	Chlorarachnea	Chlorarachnida	Chlorarachniidae	Chlorarachnion	autotroph	naked_amoeboflagellate	gliding	marine	Keeling 2016									
+Eukaryota	Rhizaria	Cercozoa	Chlorarachnea	Chlorarachnida	Chlorarachniidae	Partenskyella	autotroph	naked_amoeboflagellate	gliding	marine	Keeling 2016									
+Eukaryota	Rhizaria	Cercozoa	Chlorarachnea	Chlorarachnida	Gymnochloridae	Gymnochlora	autotroph	naked_amoeboflagellate	gliding	marine	Keeling 2016									
+Eukaryota	Rhizaria	Cercozoa	Chlorarachnea	Chlorarachnida	Gymnochloridae	Amorphochlora	autotroph	naked_amoeboflagellate	gliding	marine	Keeling 2016									
+Eukaryota	Rhizaria	Cercozoa	Chlorarachnea	Chlorarachnida	Lotharellidae	Lotharella	autotroph	naked_amoeboflagellate	gliding	marine	Keeling 2016									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Imbricatea_X	Imbricatea_XX	Imbricatea_XXX	NA	NA	NA	NA										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Trivalvulariida	Trivalvulariida_X	Trivalvulariida_XX	eukaryvore	testate_cell_organic	gliding	ubiquitous										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Trivalvulariida	Trivalvulariidae	Leptogromia	eukaryvore	testate_cell_organic	gliding	ubiquitous	Siemensma & Dumack 2019									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Euglyphida_X	Euglyphida_XX	NA	testate_cell_silica	gliding	NA		There are only two rare exceptions to the silica scales bearing in Euglyphida, Ovulinata and Micropyxidiella, here neglected in assigning the trait to the order.								
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Assulinidae	Assulinidae_X	omnivore	testate_cell_silica	gliding	soil_and_freshwater		"Although Trinema, Euglypha, Assulina and Trachelocorythion have been fed with bacteria only (Wyzelich et al. 2002), we consider them as omnivores, as in Meisterfeld (2000) = ""herbivores"", and Seppey et al. (2017) = algivores."								
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Assulinidae	Assulina	omnivore	testate_cell_silica	gliding	soil_and_freshwater	Meisterfeld 2000	"Although Trinema, Euglypha, Assulina and Trachelocorythion have been fed with bacteria only (Wyzelich et al. 2002), we consider them as omnivores, as in Meisterfeld (2000) = ""herbivores"", and Seppey et al. (2017) = algivores."								
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Euglyphidae	Euglyphidae_X	omnivore	testate_cell_silica	gliding	ubiquitous		"Although Trinema, Euglypha, Assulina and Trachelocorythion have been fed with bacteria only (Wyzelich et al. 2002), we consider them as omnivores, as in Meisterfeld (2000) = ""herbivores"", and Seppey et al. (2017) = algivores."								
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Euglyphidae	Euglypha	omnivore	testate_cell_silica	gliding	ubiquitous	Meisterfeld 2000									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Paulinellidae	Paulinellidae_X	NA	testate_cell_silica	gliding	NA										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Paulinellidae	Paulinella	autotroph	testate_cell_silica	gliding	ubiquitous	"Nicholls 2009; Nowack 2014"									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Paulinellidae	Ovulinata	bacterivore	testate_cell_organic	gliding	marine	Anderson et al. 1996									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Paulinellidae	Micropyxidiella	bacterivore	testate_cell_organic	gliding	soil_and_freshwater	Tarnawski & Lara 2015									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Sphenoderiidae	Sphenoderiidae_X	omnivore	testate_cell_silica	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Sphenoderiidae	Trachelocorythion	omnivore	testate_cell_silica	gliding	soil_and_freshwater	Meisterfeld 2000	"Although Trinema, Euglypha, Assulina and Trachelocorythion have been fed with bacteria only (Wyzelich et al. 2002), we consider them as omnivores, as in Meisterfeld (2000) = ""herbivores"", and Seppey et al. (2017) = algivores."								
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Sphenoderiidae	Sphenoderia	omnivore	testate_cell_silica	gliding	soil_and_freshwater	Meisterfeld 2000									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Trinematidae	Trinema	omnivore	testate_cell_silica	gliding	soil_and_freshwater	Meisterfeld 2000	"Although Trinema, Euglypha, Assulina and Trachelocorythion have been fed with bacteria only (Wyzelich et al. 2002), we consider them as omnivores, as in Meisterfeld (2000) = ""herbivores"", and Seppey et al. (2017) = algivores."								
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Trinematidae	Corythion	omnivore	testate_cell_silica	gliding	soil_and_freshwater	Meisterfeld 2000	"Although Trinema, Euglypha, Assulina and Trachelocorythion have been fed with bacteria only (Wyzelich et al. 2002), we consider them as omnivores, as in Meisterfeld (2000) = ""herbivores"", and Seppey et al. (2017) = algivores."								
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Cyphoderiidae	Cyphoderiidae_X	omnivore	testate_cell_silica	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Euglyphida	Cyphoderiidae	Cyphoderia	omnivore	testate_cell_silica	gliding	soil_and_freshwater	Meisterfeld 2000									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Discomonadida	Discomonadida_X	Discomonadida_XX	NA	naked_flagellate	gliding	marine										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Discomonadida	Discomonadidae	Discomonadidae_X	NA	naked_flagellate	gliding	marine										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Discomonadida	Discomonadidae	Discomonas	NA	naked_flagellate	gliding	marine	Chantangsi & Leander 2010a									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Krakenida	Krakenida_X	Krakenida_XX	bacterivore	naked_amoeba	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Krakenida	Krakenidae	Krakenidae_X	bacterivore	naked_amoeba	gliding	soil_and_freshwater	Dumack et al. 2016									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Krakenida	Krakenidae	Kraken	bacterivore	naked_amoeba	gliding	soil_and_freshwater	Dumack et al. 2016									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Variglissida	Variglissida_X	Variglissida_XX	eukaryvore	naked_flagellate	NA	marine										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Variglissida	Clautriaviidae	Clautriavia	eukaryvore	naked_flagellate	gliding	marine	Chantangsi & Leander 2010b									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Variglissida	Quadriciliidae	Quadricilia	eukaryvore	naked_flagellate	freely_swimming	marine	Yabuki & Ishida 2018									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Variglissida	Nudifilidae	Nudifilidae_X	bacterivore	naked_amoeboflagellate	gliding	NA										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Variglissida	Nudifilidae	Nudifila	bacterivore	naked_amoeboflagellate	gliding	NA	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Marimonadida	Marimonadida_X	Marimonadida_XX	NA	naked_flagellate	gliding	NA										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Marimonadida	Auranticordidae	Auranticordis	bacterivore	naked_flagellate	gliding	marine	Chantangsi et al. 2008									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Marimonadida	Pseudopirsoniidae	Pseudopirsonia	eukaryvore	naked_flagellate	freely_swimming	marine	Kühn et al. 2004									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Marimonadida	Abolliferidae	Abollifer	eukaryvore	naked_flagellate	gliding	marine	Shiratori et al. 2014									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Marimonadida	Cryanomonadidae	Cyranomonas	bacterivore	naked_flagellate	gliding	marine	Lee & Park 2016									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Spongomonadida	Spongomonadida_X	Spongomonadida_XX	bacterivore	naked_flagellate	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Spongomonadida	Spongomonadidae	Spongomonadidae_X	bacterivore	naked_flagellate	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Spongomonadida	Spongomonadidae	Spongomonas	bacterivore	naked_flagellate	gliding	soil_and_freshwater	"Hibberd 1976; Howe et al. 2011; Strüder Kypke & Hausmann 1998"	Spongomonas is included in the creeping/gliding category, although it is attached to the substrate.								
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Thaumatomonadida_X	Thaumatomonadida_XX	NA	NA	gliding	NA		We consider Thaumatomonadida (except Esquamulidae) as testate, although their cells are covered with interlocking silica scales, not forming a solid shell. 								
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Peregriniidae	Peregriniidae_X	bacterivore	testate_cell_silica	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Peregriniidae	Peregrinia	bacterivore	testate_cell_silica	gliding	soil_and_freshwater	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Esquamulidae	Esquamulidae_X	bacterivore	naked_amoeboflagellate	gliding	marine										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Esquamulidae	Esquamula	bacterivore	naked_amoeboflagellate	gliding	marine	Shiratori et al. 2012									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Thaumatomonadidae	Thaumatomonadidae_X	NA	testate_cell_silica	gliding	NA										
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Thaumatomonadidae	Penardeugenia	omnivore	testate_cell_silica	gliding	soil_and_freshwater	Dumack et al. 2018									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Thaumatomonadidae	Thaumatomonas	bacterivore	testate_cell_silica	gliding	soil_and_freshwater	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Thaumatomonadidae	Thaumatomastix	bacterivore	testate_cell_silica	gliding	soil_and_freshwater	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Thaumatomonadidae	Thaumatospina	bacterivore	testate_cell_silica	gliding	marine	Scoble & Cavalier Smith 2014									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Thaumatomonadidae	Ovaloplaca	bacterivore	testate_cell_silica	gliding	marine	Scoble & Cavalier Smith 2014									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Thaumatomonadidae	Scutellomonas	bacterivore	testate_cell_silica	gliding	marine	Scoble & Cavalier Smith 2014									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Thaumatomonadidae	Allas	bacterivore	testate_cell_silica	gliding	soil_and_freshwater	Scoble & Cavalier Smith 2014									
+Eukaryota	Rhizaria	Cercozoa	Imbricatea	Thaumatomonadida	Thaumatomonadidae	Reckertia	bacterivore	testate_cell_silica	gliding	marine	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sarcomonadea_X	Sarcomonadea_XX	Sarcomonadea_XXX	NA	NA	NA	NA										
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Cercomonadida_X	Cercomonadida_XX	NA	NA	NA	NA										
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Cercomonadidae	Cercomonadidae_X	NA	NA	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Cercomonadidae	Cavernomonas	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Bass et al. 2009b									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Cercomonadidae	Cercomonas	omnivore	naked_amoeboflagellate	gliding	soil_and_freshwater	"Bass et al. 2009b; Ekelund 1998; Flavin et al. 2000; Geisen et al. 2016"	Cercomonas, Eocercomonas and Neocercomonas were described as bacterivores, but evidence is accumulating towards an additional myco- and algophagy, so we consider them as omnivores, references given.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Cercomonadidae	Eocercomonas	omnivore	naked_amoeboflagellate	gliding	soil_and_freshwater	"Bass et al. 2009b; Ekelund 1998; Flavin et al. 2000; Geisen et al. 2016"	Cercomonas, Eocercomonas and Neocercomonas were described as bacterivores, but evidence is accumulating towards an additional myco- and algophagy, so we consider them as omnivores, references given.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Cercomonadidae	Filomonas	bacterivore	naked_amoeboflagellate	gliding	soil_and_freshwater	Cavalier Smith & Karpov 2012									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Cercomonadidae	Neocercomonas	omnivore	naked_amoeboflagellate	gliding	soil_and_freshwater	"Bass et al. 2009b; Ekelund 1998; Flavin et al. 2000; Geisen et al. 2016"	Cercomonas, Eocercomonas and Neocercomonas were described as bacterivores, but evidence is accumulating towards an additional myco- and algophagy, so we consider them as omnivores, references given.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Paracercomonadidae	Paracercomonadidae_X	NA	naked_amoeboflagellate	NA	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Paracercomonadidae	Brevimastigomonas	bacterivore	naked_amoeboflagellate	gliding	soil_and_freshwater	Bass et al. 2009b									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Paracercomonadidae	Phytocercomonas	NA	naked_amoeboflagellate	gliding	soil_and_freshwater	Ngo et al. 2018									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Paracercomonadidae	Metabolomonas	bacterivore	naked_amoeboflagellate	gliding	soil_and_freshwater	Brabender et al. 2012									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Paracercomonadidae	Nucleocercomonas	bacterivore	naked_amoeboflagellate	freely_swimming	soil_and_freshwater	Brabender et al. 2012									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Cercomonadida	Paracercomonadidae	Paracercomonas	bacterivore	naked_amoeboflagellate	gliding	soil_and_freshwater	Bass et al. 2009b									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Glissomonadida_X	Glissomonadida_XX	NA	NA	NA	soil_and_freshwater		Only two environmental sequences of glissomonads stem from oceans. Since there are currently no described marine species, we consider them as soil/freshwater inhabitants.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Allapsidae	Allapsidae_X	bacterivore	naked_flagellate	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Allapsidae	Allapsidae_Group_Te	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Allapsidae	Allantion	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Allapsidae	Allapsa	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Allapsidae	Teretomonas	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Viridiraptoridae	Viridiraptoridae_X	eukaryvore	naked_amoeboflagellate	gliding	soil_and_freshwater		Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Viridiraptoridae	Viridiraptor	eukaryvore	naked_amoeboflagellate	gliding	soil_and_freshwater	Hess & Melkonian 2013	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Viridiraptoridae	Orciraptor	eukaryvore	naked_amoeboflagellate	gliding	soil_and_freshwater	Hess & Melkonian 2013	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Bodomorphidae	Bodomorphidae_X	bacterivore	naked_flagellate	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Bodomorphidae	Bodomorpha	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Glissomonadida_Clade_T	Glissomonadida_Clade_T_X	NA	NA	NA	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Glissomonadida_Clade_Y	Glissomonadida_Clade_Y_X	NA	NA	NA	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Dujardinidae	Dujardinidae_X	bacterivore	naked_flagellate	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Dujardinidae	Dujardina	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Proleptomonadidae	Proleptomonadidae_X	bacterivore	naked_flagellate	freely_swimming	soil_and_freshwater		Proleptomonas was described as osmotroph (Vickerman et al. 2002), but the ATCC strain is fed with bacteria.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Proleptomonadidae	Proleptomonas	bacterivore	naked_flagellate	freely_swimming	soil_and_freshwater	Vickerman et al. 2002	Proleptomonas was described as osmotroph (Vickerman et al. 2002), but the ATCC strain is fed with bacteria.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Sandonidae	Sandonidae_X	bacterivore	naked_flagellate	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Sandonidae	Sandonidae_Clade_N_F_A	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Sandonidae	Flectomonas	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Sandonidae	Mollimonas	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Sandonidae	Neoheteromita	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Glissomonadida	Sandonidae	Sandona	bacterivore	naked_flagellate	gliding	soil_and_freshwater	Howe et al. 2009									
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Pansomonadida	Pansomonadida_X	Pansomonadida_XX	NA	naked_amoeboflagellate	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Pansomonadida	Agitatidae	Agitatidae_X	NA	naked_amoeboflagellate	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Pansomonadida	Agitatidae	Aurigamonas	omnivore	naked_amoeboflagellate	gliding	soil_and_freshwater	"Vickerman et al. 2005; Howe et al. 2011"	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Pansomonadida	Agitatidae	Agitata	bacterivore	naked_amoeboflagellate	gliding	soil_and_freshwater	Howe et al. 2011	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Sainouridea_X	Sainouridea_XX	bacterivore	NA	gliding	soil_and_freshwater		Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Sainouridae	Sainouridae_X	bacterivore	NA	gliding	soil_and_freshwater		Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Sainouridae	Cholamonas	bacterivore	naked_amoeboflagellate	gliding	soil_and_freshwater	Schuler et al. 2018	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Sainouridae	Sainouron	bacterivore	naked_amoeboflagellate	gliding	soil_and_freshwater	Schuler et al. 2018	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Sainouridae	Acantholus	bacterivore	naked_amoeba	gliding	soil_and_freshwater	Schuler et al. 2018	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Sainouridae	Homocognatis	bacterivore	naked_amoeba	gliding	soil_and_freshwater	Schuler et al. 2018	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Helkesimastigidae	Helkesimastigidae_X	bacterivore	naked_amoeba	gliding	soil_and_freshwater		Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Helkesimastigidae	Helkesimastix	bacterivore	naked_amoeba	gliding	soil_and_freshwater	Schuler et al. 2018	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Guttulinopsidae	Guttulinopsidae_X	bacterivore	naked_amoeba	gliding	soil_and_freshwater		Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Guttulinopsidae	Olivorum	bacterivore	naked_amoeba	gliding	soil_and_freshwater	Schuler et al. 2018	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Guttulinopsidae	Guttulinopsis	bacterivore	naked_amoeba	gliding	soil_and_freshwater	Schuler et al. 2018	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Guttulinopsidae	Rosculus	bacterivore	naked_amoeba	gliding	soil_and_freshwater	Schuler et al. 2018	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Sarcomonadea	Sainouridea	Guttulinopsidae	Puppisaman	bacterivore	naked_amoeba	gliding	soil_and_freshwater	Schuler et al. 2018	Also possessing an ephemeral flagellate stage or an amoeboid feeding form and a flagellate locomotive form.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Thecofilosea_X	Thecofilosea_XX	Thecofilosea_XXX	NA	NA	NA	NA										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Phaeodarea_X	Phaeodarea_XX	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Metusettidae	Metusettidae_X	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Metusettidae	Gazeletta	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Challengeriidae	Challengeriidae_X	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Challengeriidae	Chalengeron	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Challengeriidae	Protcystis	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Challengeriidae	Entocannula	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Porospathidae	Porospathidae_X	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Porospathidae	Porospathis	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Tuscaroridae	Tuscaroridae_X	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Tuscaroridae	Tuscaretta	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Aulosphaeridae	Aulosphaerida_X	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Aulosphaeridae	Auloscena	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Aulosphaeridae	Aulosphaera	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Sagosphaeridae	Sagosphaeridae_X	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Sagosphaeridae	Sagoscena	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Medusettidae	Medusettidae_X	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Medusettidae	Medusetta	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Coelodendridae	Coelodendridae_X	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Coelodendridae	Coelodendrum	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Conchariidae	Conchariidae_X	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Conchariidae	Conchellium	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Aulacanthidae	Aulacanthidae_X	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Aulacanthidae	Aulacantha	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Aulacanthidae	Auloceros	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Aulacanthidae	Aulographis	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Phaeodinidae	Phaeodinidae_X	omnivore	testate_cell_silica	freely_swimming	marine		Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Phaeodarea	Phaeodinidae	Phaeodina	omnivore	testate_cell_silica	freely_swimming	marine	Nakamura et al. 2015	Phaeodarea do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Cryomonadida	Cryomonadida_X	Cryomonadida_XX	NA	testate_cell_organic	NA	NA										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Cryomonadida	Cryothecomonadidae	Cryothecomonadidae_X	eukaryvore	testate_cell_organic	NA	marine										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Cryomonadida	Cryothecomonadidae	Cryothecomonas	eukaryvore	testate_cell_organic	NA	marine	"Cavalier Smith 1993; Thomsen et al. 1991"									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Cryomonadida	Protaspididae	Protaspididae_X	eukaryvore	testate_cell_organic	gliding	marine										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Cryomonadida	Protaspididae	Protaspa	eukaryvore	testate_cell_organic	gliding	marine	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Cryomonadida	Rhogostomidae	Rhogostomidae_X	omnivore	testate_cell_organic	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Cryomonadida	Rhogostomidae	Capsellina	omnivore	testate_cell_organic	gliding	soil_and_freshwater	"Howe et al. 2011; Dumack et al. 2017"									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Cryomonadida	Rhogostomidae	Rhogostoma	omnivore	testate_cell_organic	gliding	soil_and_freshwater	Dumack et al. 2017a									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Cryomonadida	Rhogostomidae	Sacciforma	omnivore	testate_cell_organic	gliding	soil_and_freshwater	Dumack et al. 2017a									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Ventricleftida	Ventricleftida_X	Ventricleftida_XX	eukaryvore	testate_cell_organic	gliding	marine										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Ventricleftida	Ventrifissuridae	Ventrifissuridae_X	eukaryvore	testate_cell_organic	gliding	marine										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Ventricleftida	Ventrifissuridae	Verrucomonas	eukaryvore	testate_cell_organic	gliding	marine	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Ventricleftida	Ventrifissuridae	Ventrifissura	eukaryvore	testate_cell_organic	gliding	marine	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Ebriida	Ebriida_X	Ebriida_XX	NA	NA	NA	NA										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Ebriida	Ebridea	Ebridea_X	NA	NA	NA	NA										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Ebriida	Ebridea	Ebriidea_TAGIRI_1_2	NA	NA	NA	NA	Hoppenrath & Leander 2006									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Ebriida	Ebriacea	Ebriacea_X	NA	NA	freely_swimming	marine	Howe et al. 2011									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Ebriida	Ebriacea	Ebria	eukaryvore	testate_cell_silica	freely_swimming	marine	"Hoppenrath & Leander 2006; Howe et al. 2011"	Ebria do not possess a shell, but a siliceous skeleton. Therefore we assimilate them to the siliceous testate cells.								
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Ebriida	Ebriacea	Botuliforma	NA	testate_cell_organic	freely_swimming	marine	Chantangsi & Leander 2010a									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Tectofilosida	Tectofilosida_X	Tectofilosida_XX	eukaryvore	testate_cell_organic	gliding	NA										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Tectofilosida	Pseudodifflugiidae	Pseudodifflugiidae_X	eukaryvore	testate_cell_organic	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Tectofilosida	Pseudodifflugiidae	Pseudodifflugia	eukaryvore	testate_cell_organic	gliding	soil_and_freshwater	"Howe et al. 2011; Wylezich et al. 2002"									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Tectofilosida	Rhizaspididae	Rhizaspididae_X	eukaryvore	testate_cell_organic	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Tectofilosida	Rhizaspididae	Rhizaspis	eukaryvore	testate_cell_organic	gliding	soil_and_freshwater	Dumack et al. 2017a									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Tectofilosida	Fiscullidae	Fiscullidae_X	eukaryvore	testate_cell_organic	gliding	soil_and_freshwater										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Tectofilosida	Fiscullidae	Fisculla	eukaryvore	testate_cell_organic	gliding	soil_and_freshwater	Dumack et al. 2017b									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Tectofilosida	Chlamydophryidae	Chlamydophryidae_X	eukaryvore	testate_cell_organic	gliding	NA										
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Tectofilosida	Chlamydophryidae	Lecythium	eukaryvore	testate_cell_organic	gliding	soil_and_freshwater	Dumack et al. 2017b									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Tectofilosida	Chlamydophryidae	Diaphoropodon	eukaryvore	testate_cell_organic	gliding	soil_and_freshwater	Dumack et al. 2017c									
+Eukaryota	Rhizaria	Cercozoa	Thecofilosea	Tectofilosida	Chlamydophryidae	Trachyrhizium	eukaryvore	testate_cell_organic	gliding	marine	Shiratori & Ishida 2016									
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
